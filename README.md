@@ -1,5 +1,6 @@
 
-# 滑稽の青龙自用Script仓库
+# 滑稽の青龙自用Script仓库 
+# 投稿:[点击直达](https://tool.huaji.asia/submit) 私聊投稿可能来不及回
 ### Huajiの小站 [点击直达](https://huaji.asia)
 ### Huajiの购物站 [点击直达](https://shop.huaji.asia)
 
@@ -10,7 +11,7 @@
 
    韭菜交流QQ群:901898186
     
-  投稿:[点击直达](https://tool.huaji.asia/submit)
+
   
   本仓库的本删去即视为已失效，请勿就有关脚本失效问
   
